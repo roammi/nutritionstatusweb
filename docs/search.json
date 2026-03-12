@@ -4,7 +4,49 @@
     "href": "index.html#justification",
     "title": "NUTRITION STATUS",
     "section": "Justification",
-    "text": "Justification\n“Anthropometric indicators most commonly used to assess the nutritional status of children are weight-for-age, height-for-age, and weight-for-height. These indices reflect different aspects of growth and nutritional status. Weight-for-age is a composite index influenced by both height and body mass; height-for-age reflects linear growth and is an indicator of long-term nutritional status; weight-for-height reflects body mass in relation to height and is particularly useful for identifying wasting.”1\n\n\nWorld Health Organization. Physical status: the use and interpretation of anthropometry. Report of a WHO Expert Committee. Geneva: World Health Organization; 1995. (WHO Technical Report Series No. 854). https://www.who.int/nutrition/publications/infantfeeding/WHO_NHD_01.9/en/"
+    "text": "Justification\n“Anthropometric indicators most commonly used to assess the nutritional status of children are weight-for-age, height-for-age, and weight-for-height. These indices reflect different aspects of growth and nutritional status. Weight-for-age is a composite index influenced by both height and body mass; height-for-age reflects linear growth and is an indicator of long-term nutritional status; weight-for-height reflects body mass in relation to height and is particularly useful for identifying wasting.”1\nWorld Health Organization. Physical status: the use and interpretation of anthropometry. Report of a WHO Expert Committee. Geneva: World Health Organization; 1995. (WHO Technical Report Series No. 854). https://www.who.int/nutrition/publications/infantfeeding/WHO_NHD_01.9/en/"
+  },
+  {
+    "objectID": "index.html#indicators",
+    "href": "index.html#indicators",
+    "title": "NUTRITION STATUS",
+    "section": "Indicators",
+    "text": "Indicators\nEach indicator measures a different aspect of growth and nutritional status.\n\nWeight-for-age (W/A) → detects underweight\nHeight-for-age (H/A) → detects growth retardation (chronic malnutrition)\nWeight-for-height (W/H) → detects acute malnutrition"
+  },
+  {
+    "objectID": "index.html#data",
+    "href": "index.html#data",
+    "title": "NUTRITION STATUS",
+    "section": "Data",
+    "text": "Data\n\n\nRows: 988\nColumns: 14\n$ ID              &lt;dbl&gt; 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16,…\n$ SEX             &lt;chr&gt; \"Male\", \"Male\", \"Female\", \"Male\", \"Female\", \"Female\", …\n$ AGE_Y           &lt;dbl&gt; 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, …\n$ COUNTRY         &lt;chr&gt; \"A\", \"A\", \"A\", \"A\", \"A\", \"A\", \"A\", \"A\", \"A\", \"A\", \"A\",…\n$ WEIGHT_KG       &lt;dbl&gt; 18.4, 21.0, 15.8, 18.5, 24.0, 19.0, 24.0, 13.8, 17.2, …\n$ HEIGHT_CM       &lt;dbl&gt; 111.0, 109.0, 99.0, 99.0, 106.0, 108.0, 108.0, 101.0, …\n$ BMI_final       &lt;dbl&gt; 14.93, 17.68, 16.12, 18.88, 21.36, 16.29, 20.58, 13.53…\n$ IEN_Kling       &lt;dbl&gt; 75.06972, 83.11015, 53.25000, 61.98330, 61.67293, 80.9…\n$ IEN_Kling4      &lt;dbl&gt; 81.20375, 87.26585, 64.75272, 41.26529, 71.10321, 85.6…\n$ IEN_PCA         &lt;dbl&gt; 28.48860, 19.62321, 61.42087, 34.62265, 15.88027, 33.6…\n$ OVERDUE         &lt;dbl&gt; 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, …\n$ DAYS_SINCE_LAST &lt;dbl&gt; 126, 98, 194, 488, 195, 197, 346, 193, 199, 196, 195, …\n$ LAST_ASSESS     &lt;date&gt; 2025-11-06, 2025-12-04, 2025-08-30, 2024-11-09, 2025-…\n$ NEXT_ASSESS     &lt;date&gt; 2026-11-06, 2026-12-04, 2026-08-30, 2025-11-09, 2026-…"
+  },
+  {
+    "objectID": "index.html#outcomes",
+    "href": "index.html#outcomes",
+    "title": "NUTRITION STATUS",
+    "section": "Outcomes",
+    "text": "Outcomes\n\nStatistics Outcomes"
+  },
+  {
+    "objectID": "index.html#weight",
+    "href": "index.html#weight",
+    "title": "NUTRITION STATUS",
+    "section": "Weight",
+    "text": "Weight"
+  },
+  {
+    "objectID": "index.html#height",
+    "href": "index.html#height",
+    "title": "NUTRITION STATUS",
+    "section": "Height",
+    "text": "Height"
+  },
+  {
+    "objectID": "index.html#recommendations-and-conclusions",
+    "href": "index.html#recommendations-and-conclusions",
+    "title": "NUTRITION STATUS",
+    "section": "Recommendations and Conclusions",
+    "text": "Recommendations and Conclusions\n\na\nb\nc"
   },
   {
     "objectID": "about.html",
