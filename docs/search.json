@@ -28,74 +28,67 @@
     "text": "Outcomes\n\nStatistics Outcomes"
   },
   {
-    "objectID": "index.html#weight-country-a",
-    "href": "index.html#weight-country-a",
+    "objectID": "index.html#weight-countries-a-b-c",
+    "href": "index.html#weight-countries-a-b-c",
     "title": "NUTRITION STATUS",
-    "section": "Weight Country A",
-    "text": "Weight Country A"
+    "section": "Weight Countries A, B, C",
+    "text": "Weight Countries A, B, C"
   },
   {
-    "objectID": "index.html#weight-country-b",
-    "href": "index.html#weight-country-b",
+    "objectID": "index.html#weight-by-gender-histograms-plots",
+    "href": "index.html#weight-by-gender-histograms-plots",
     "title": "NUTRITION STATUS",
-    "section": "Weight Country B",
-    "text": "Weight Country B"
+    "section": "Weight by gender Histograms plots",
+    "text": "Weight by gender Histograms plots\n\n\nWeight for Males \n\nWeight for Females"
   },
   {
-    "objectID": "index.html#weight-country-c",
-    "href": "index.html#weight-country-c",
+    "objectID": "index.html#height-by-gender-density-plots",
+    "href": "index.html#height-by-gender-density-plots",
     "title": "NUTRITION STATUS",
-    "section": "Weight Country C",
-    "text": "Weight Country C"
+    "section": "Height by Gender Density plots",
+    "text": "Height by Gender Density plots\n\n\nHeight for males \n\nHeight for Females"
   },
   {
-    "objectID": "index.html#weight-by-gender",
-    "href": "index.html#weight-by-gender",
+    "objectID": "index.html#height-vs-age-of-the-3-countries",
+    "href": "index.html#height-vs-age-of-the-3-countries",
     "title": "NUTRITION STATUS",
-    "section": "Weight by gender",
-    "text": "Weight by gender\n\n\nWeight for Males \n\nWeight for Females"
+    "section": "Height vs Age of the 3 countries",
+    "text": "Height vs Age of the 3 countries\n\nHeight vs Age of the 3 countries"
   },
   {
-    "objectID": "index.html#height-by-gender",
-    "href": "index.html#height-by-gender",
+    "objectID": "index.html#height-vs-age-of-country-a",
+    "href": "index.html#height-vs-age-of-country-a",
     "title": "NUTRITION STATUS",
-    "section": "Height by Gender",
-    "text": "Height by Gender\n\n\nHeight for males \n\nHeight for Females"
+    "section": "Height vs Age of country A",
+    "text": "Height vs Age of country A\n\nHeight vs Age of country A"
   },
   {
-    "objectID": "index.html#height-vs-age",
-    "href": "index.html#height-vs-age",
+    "objectID": "index.html#height-vs-age-by-gender",
+    "href": "index.html#height-vs-age-by-gender",
     "title": "NUTRITION STATUS",
-    "section": "Height vs Age",
-    "text": "Height vs Age\n\nHeight vs Age 1"
+    "section": "Height vs Age by gender",
+    "text": "Height vs Age by gender\n\nHeight vs Age by gender"
   },
   {
-    "objectID": "index.html#height-vs-age-1",
-    "href": "index.html#height-vs-age-1",
+    "objectID": "index.html#map-height-change-from-1-to-5-years-old",
+    "href": "index.html#map-height-change-from-1-to-5-years-old",
     "title": "NUTRITION STATUS",
-    "section": "Height vs Age",
-    "text": "Height vs Age\n\nHeight vs Age 2"
-  },
-  {
-    "objectID": "index.html#height-vs-age-2",
-    "href": "index.html#height-vs-age-2",
-    "title": "NUTRITION STATUS",
-    "section": "Height vs Age",
-    "text": "Height vs Age\n\nHeight vs Age 3"
-  },
-  {
-    "objectID": "index.html#map-bmi-mean",
-    "href": "index.html#map-bmi-mean",
-    "title": "NUTRITION STATUS",
-    "section": "MAP BMI Mean",
-    "text": "MAP BMI Mean\n\nMap BMI Mean"
+    "section": "MAP Height change from 1 to 5 years old",
+    "text": "MAP Height change from 1 to 5 years old"
   },
   {
     "objectID": "index.html#recommendations-and-conclusions",
     "href": "index.html#recommendations-and-conclusions",
     "title": "NUTRITION STATUS",
     "section": "Recommendations and Conclusions",
-    "text": "Recommendations and Conclusions\n\nOutliers should be filtered by age and gender\nCountry A has the lowest weight and height\nBMI for females increases earlier\nBMI for males increases later"
+    "text": "Recommendations and Conclusions\n\nOutliers should be filtered by age and gender\nCOUNTRY A has the lowest weight and height\nBMI for females increases earlier\nBMI for males increases later\nOutliers are present and influential at the extremes"
+  },
+  {
+    "objectID": "index.html#summary",
+    "href": "index.html#summary",
+    "title": "NUTRITION STATUS",
+    "section": "Summary",
+    "text": "Summary\nIn general, children (aged 1 to 5 years) show the expected increase in height with age, but the levels vary depending on the context: country A consistently shows lower weight and height. Differences between the sexes are evident in the timing of changes in BMI—earlier among girls and later among boys—but are smaller than the differences observed between countries. The map confirms the geographical heterogeneity in average BMI, and the presence of outliers and a large sample size of 5-year-old children help explain some characteristics of the distribution. Taken together, these findings highlight significant variations between countries and across space in early childhood growth within the dataset in question."
   },
   {
     "objectID": "about.html",
