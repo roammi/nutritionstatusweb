@@ -28,25 +28,74 @@
     "text": "Outcomes\n\nStatistics Outcomes"
   },
   {
-    "objectID": "index.html#weight",
-    "href": "index.html#weight",
+    "objectID": "index.html#weight-country-a",
+    "href": "index.html#weight-country-a",
     "title": "NUTRITION STATUS",
-    "section": "Weight",
-    "text": "Weight"
+    "section": "Weight Country A",
+    "text": "Weight Country A"
   },
   {
-    "objectID": "index.html#height",
-    "href": "index.html#height",
+    "objectID": "index.html#weight-country-b",
+    "href": "index.html#weight-country-b",
     "title": "NUTRITION STATUS",
-    "section": "Height",
-    "text": "Height"
+    "section": "Weight Country B",
+    "text": "Weight Country B"
+  },
+  {
+    "objectID": "index.html#weight-country-c",
+    "href": "index.html#weight-country-c",
+    "title": "NUTRITION STATUS",
+    "section": "Weight Country C",
+    "text": "Weight Country C"
+  },
+  {
+    "objectID": "index.html#weight-by-gender",
+    "href": "index.html#weight-by-gender",
+    "title": "NUTRITION STATUS",
+    "section": "Weight by gender",
+    "text": "Weight by gender\n\n\nWeight for Males \n\nWeight for Females"
+  },
+  {
+    "objectID": "index.html#height-by-gender",
+    "href": "index.html#height-by-gender",
+    "title": "NUTRITION STATUS",
+    "section": "Height by Gender",
+    "text": "Height by Gender\n\n\nHeight for males \n\nHeight for Females"
+  },
+  {
+    "objectID": "index.html#height-vs-age",
+    "href": "index.html#height-vs-age",
+    "title": "NUTRITION STATUS",
+    "section": "Height vs Age",
+    "text": "Height vs Age\n\nHeight vs Age 1"
+  },
+  {
+    "objectID": "index.html#height-vs-age-1",
+    "href": "index.html#height-vs-age-1",
+    "title": "NUTRITION STATUS",
+    "section": "Height vs Age",
+    "text": "Height vs Age\n\nHeight vs Age 2"
+  },
+  {
+    "objectID": "index.html#height-vs-age-2",
+    "href": "index.html#height-vs-age-2",
+    "title": "NUTRITION STATUS",
+    "section": "Height vs Age",
+    "text": "Height vs Age\n\nHeight vs Age 3"
+  },
+  {
+    "objectID": "index.html#map-bmi-mean",
+    "href": "index.html#map-bmi-mean",
+    "title": "NUTRITION STATUS",
+    "section": "MAP BMI Mean",
+    "text": "MAP BMI Mean\n\nMap BMI Mean"
   },
   {
     "objectID": "index.html#recommendations-and-conclusions",
     "href": "index.html#recommendations-and-conclusions",
     "title": "NUTRITION STATUS",
     "section": "Recommendations and Conclusions",
-    "text": "Recommendations and Conclusions\n\na\nb\nc"
+    "text": "Recommendations and Conclusions\n\nOutliers should be filtered by age and gender\nCountry A has the lowest weight and height\nBMI for females increases earlier\nBMI for males increases later"
   },
   {
     "objectID": "about.html",
