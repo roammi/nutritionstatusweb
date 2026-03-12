@@ -53,7 +53,7 @@
     "href": "index.html#recommendations-and-conclusions",
     "title": "NUTRITION STATUS",
     "section": "Recommendations and Conclusions",
-    "text": "Recommendations and Conclusions\n\n\n\nAltough we filtered percentiles 5%, 95% in age group 1 to 5 we still have outliers affecting, for future work filters by age and gender should be aplied to better data.\nCountry A has the lowest weight and height, it could be challenges for this specific country.\nWe acknowledge BMI for females increases earlier and BMI for males increases later.\nOutliers are present and influential at the extremes\nKling and indexes are correlated."
+    "text": "Recommendations and Conclusions\n\n\n\nAltough we filtered percentiles 5%, 95% in age group 1 to 5 we still have outliers affecting, for future work filters by age and gender should be aplied to better data.\nCountry A has the lowest weight and height, it could be challenges for this specific country.\nWe acknowledge BMI for females increases earlier and BMI for males increases later.\nOutliers are present and influential at the extremes\nKling and PCA indexes correlation in the images."
   },
   {
     "objectID": "index.html#summary-of-findings",
